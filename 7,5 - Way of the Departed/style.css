@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'Cloister Black';
+  src: url(CloisterBlackLight.ttf);
+}
+
+:root {
+  --brown: rgb(73, 38, 1);
+  --green: #31a802;
+}
+
+body {
+  background-color: white;
+  background-image: url(http://www.zingerbugimages.com/backgrounds/parchment_paper_background_1800x1600.jpg);
+  background-position: top left;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.openbtn {
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri,
+  sans-serif;
+color: var(--green);
+text-decoration: none;
+float: left;
+margin-top: 3%;
+margin-left: 1%;
+border-style: solid;
+  border-width: 2px;
+  border-color: var(--brown);
+  padding: 4px;
+  color: var(--green);
+  text-decoration: none;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri,
+    sans-serif;
+  font-size: 110%;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0; /* change this with JavaScript */
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-image: url(http://www.zingerbugimages.com/backgrounds/parchment_paper_background_1800x1600.jpg);
+  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow-y: scroll; /* Enable horizontal scroll */
+  padding-top: 60px;
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri,
+    sans-serif;
+  color: var(--green);
+  text-decoration: none;
+  font-size: 25px;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: var(--brown);
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 20px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* On smaller screens, change the style of the sidenav  */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.header {
+  display: flex;
+}
+
+.back {
+  float: left;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.back a {
+  border-style: solid;
+  border-width: 2px;
+  border-color: var(--brown);
+  padding: 4px;
+  color: var(--green);
+  text-decoration: none;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri,
+    sans-serif;
+  font-size: 110%;
+}
+
+.image {
+  float: left;
+  position: relative;
+  right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+.image img {
+  border-style: solid double;
+  border-width: 6px;
+  border-color: var(--brown);
+}
+
+.text {
+  display: block;
+  margin-left: 2%;
+  margin-right: 1%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 120%;
+  text-align: justify;
+}
+
+#index-image {
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+#index-image img {
+  border-style: solid double;
+  border-width: 6px;
+  border-color: var(--brown);
+}
+
+.index {
+  display: flex;
+  color: var(--brown);
+  font-size: 160%;
+  line-height: 155%;
+}
+
+.credits {
+  margin-top: 5%;
+  color: var(--brown);
+}
+
+.credits a {
+  color: var(--green);
+  text-decoration: none;
+}
+
+#Azure {
+  color: rgb(17, 158, 158);
+}
