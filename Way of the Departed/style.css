@@ -30,7 +30,7 @@ body {
   color: var(--green);
   text-decoration: none;
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  font-size: 110%;
+  font-size: 115%;
 }
 
 .sidenav {
@@ -40,6 +40,8 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
+  border-left-style: solid double;
+  border-color: var(--brown);
   background-image: url(http://www.zingerbugimages.com/backgrounds/parchment_paper_background_1800x1600.jpg);
   overflow-x: hidden; /* Disable horizontal scroll */
   overflow-y: scroll; /* Enable horizontal scroll */
