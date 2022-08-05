@@ -126,7 +126,8 @@ body {
 
 .source {
   margin-top: 5%;
-  font-size: 80%;
+  font-size: 85%;
+  text-decoration: none;
   color: var(--green);
 }
 
