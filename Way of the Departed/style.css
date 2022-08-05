@@ -1,3 +1,4 @@
+ Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his face obscured by the hoodie. The green glow of his scar is evident. A green, ghostly Master Wu floats besides him and rests his hand on Cole's shoulder. Wu's legs fade into fog before reaching the ground.
 @font-face {
   font-family: 'Cloister Black';
   src: url(CloisterBlackLight.ttf);
@@ -41,6 +42,7 @@ body {
   top: 0;
   left: 0;
   border-left-style: solid double;
+  border-left-width: 4px;
   border-color: var(--brown);
   background-image: url(http://www.zingerbugimages.com/backgrounds/parchment_paper_background_1800x1600.jpg);
   overflow-x: hidden; /* Disable horizontal scroll */
