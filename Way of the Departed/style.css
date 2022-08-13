@@ -41,14 +41,17 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  border-left-style: solid double;
-  border-left-width: 4px;
-  border-color: var(--brown);
-  background-image: url(http://www.zingerbugimages.com/backgrounds/parchment_paper_background_1800x1600.jpg);
+  background-image: url(http://www.zingerbugimages.com/backgrounds/brown_parchment_paper_background_1800x1600.jpg);
   overflow-x: hidden; /* Disable horizontal scroll */
   overflow-y: scroll; /* Enable horizontal scroll */
   padding-top: 60px;
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+.sidenav div{
+  border-left-style: solid double;
+  border-left-width: 4px;
+  border-color: var(--brown);
 }
 
 /* navigation menu links */
