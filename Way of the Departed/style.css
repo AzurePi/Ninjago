@@ -52,7 +52,7 @@ body {
 .sidenav a {
   padding: 8px 8px 8px 32px;
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  color: var(--green);
+  color: #35ba00;
   text-decoration: none;
   font-size: 25px;
   display: block;
