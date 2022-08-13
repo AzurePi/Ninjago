@@ -8,20 +8,6 @@
   --green: #31a802;
 }
 
-::-webkit-scrollbar {
-  width: 20px;
-}
-
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px rgb(82, 61, 40);
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--brown);
-  border-radius: 10px;
-}
-
 body {
   background-color: white;
   background-image: url(http://www.zingerbugimages.com/backgrounds/parchment_paper_background_1800x1600.jpg);
@@ -41,7 +27,7 @@ body {
   border-width: 2px;
   border-color: var(--brown);
   padding: 4px;
-  color: var(--green);
+  color: #3ac902;
   text-decoration: none;
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   font-size: 115%;
