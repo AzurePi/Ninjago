@@ -4,7 +4,7 @@ This is a work in progress, and will eventually include both ***The Way of the D
 
 All of the story and art in Way of the Departed belong to Tommy Andreasen, [@TommyAndreasen](https://twitter.com/TommyAndreasen) on Twitter.
 
-Links to the posts containing the original sotry are provided.
+Links to the posts containing the original story are provided.
 This project brings me no monetary gain whatsoever, and is done purely as html practice and out of love for Ninjago. No copyright infringement intended.
 
 ~I spent entirely too long on this.~
