@@ -1,0 +1,671 @@
+t1=`<p>
+        <b><i>It is cold and I am freezing.</i></b>
+        <br />
+        I shouldn't be, because I am not alive.
+        <br />
+        I am in an ice labyrinth. It feels like I have been here before, and it
+        feels like I shouldn't be here.
+        <br />
+        My friends are with me. They are looking at their reflections in the
+        walls of ice and discuss what they mean. In their reflections they look
+        different. Older and wiser. They wear the robes of sensei. Jay seems
+        ecstatic that his reflection has an eye patch. He thinks it is cool.
+        Then there is a change in his mood and he seems to be hiding something.
+        We haven't been the best of friends lately. I try not to think too much
+        about it.
+      </p>
+      <p>
+        As I walk up to the ice wall I wonder about my own reflection. I look
+        alive again and it doesn't quite make sense. My hands are glowing bright
+        orange, but what really catches my eye is something on my forehead. A
+        small green scar. I get really close to get a good look, and realize
+        that there is something moving inside it. It starts to glow. I am
+        blinded by light as I stare into an abyss.
+        <br />
+        My friends and I have seen many strange things and places, but this one
+        takes the cake. Faces float by in a constantly twisting maelstrom of
+        green. They are hard to make out, but some seem familiar to me, and I
+        hear a voice I have not heard in a long time. It is calling my name over
+        and over.
+        <br />
+        It hurts deep inside, so I take a step back from the wall. But my
+        reflection doesn't respond. He just stands there staring coldly back at
+        me. The scar on his forehead starts to convulse. First just a bit but
+        then more violently. And then his entire head splits open. It is
+        unbearable to watch, but I find myself unable to look away. The headless
+        body falls to the ground without a sound, but the scar remains floating
+        in mid air. I try to turn away, but now I can't move. My friends are
+        still chatting, but it seems like their voices are a million miles away.
+        I realize this is the end. The scar keeps growing and is now as big as
+        me. I just stand there, as it leaves the ice wall. It comes at me and
+        consumes me. Everything goes green.
+      </p>
+      <p>
+        <b><i>This is when I wake up.</i></b
+        > It always is. I must have had this dream a hundred times, but I have
+        never told anyone about it. It's <i>my</i> secret and there seems to be
+        a lot of those lately.
+      </p>
+      <p>
+        I am in my room in our home, an old temple floating a three hundred
+        yards above ground. We don't know why. It just did one day. I suspect
+        Jay and Nya know something about it somehow. The have been really close
+        lately, sometimes playful and clearly in love, but other times they seem
+        bewildered, talk in hushed voices and they seem to be examining the
+        temple grounds. I am happy for them but it's also disturbing. I know
+        something about the Temple of Airjitzu as well; it is still haunted. I
+        could tell the others but it would freak out Jay, so I've kept it to
+        myself. Secrets.
+      </p>
+      <p>
+        Waking up tonight is different though. My room is bathed in a bright
+        green light. It reminds me of how Lloyd's eyes have started changing
+        after Master Wu went missing. He trains alone so intensely, and he is
+        really connecting with his powers… whatever it is. He has done well
+        filling in after Master Wu, but he is clearly not comfortable with it.
+        <br />
+        After a few seconds of trying to find the source of the green light, I
+        realize the source is me. The light comes from me. From the scar on my
+        forehead. And that's not the only thing which is different.
+        <br />
+        By the window the ghost of Master Yang floats in mid air. I get the
+        feeling he has been watching me for a while. There is an expression of
+        sadness on his face which I haven't seen since that night on top of the
+        temple. The night he intended to curse me, but ended up saving me. I
+        became mortal again and he chose to remain behind as the master of the
+        house… or tried to save me as I am about to be told.
+      </p>
+      <p>
+        After an uncomfortable silence I ask him about my glowing scar. His
+        voice quivers as he speaks and the answer cuts me like a knife. "My dear
+        Cole. That's not a scar… it's a rift. And it will open soon…".
+      </p>
+      <div id="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/943790525911588865" target="new">Original post</a>
+      </p>
+    </div>`
+
+i1=`Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his face obscured by the hoodie. The green glow of his scar is evident. A green, ghostly Master Wu floats besides him and rests his hand on Cole's shoulder. Wu's legs fade into fog before reaching the ground.`
+
+
+t2=`<p>
+        <i
+          ><b>“Cole! Cooole! You're missing training.</b> Hurry up or Lloyd will
+          give us one of his speeches on punctuality, dedication and discipline.
+          I don't wanna listen to one of his speeches on punctuality, dedication
+          and discipline. Coooole!"</i
+        >
+      </br>
+      The shrill voice of Jay cut through the cold morning air like a scythe. It was often windy and cold at the Temple of Airjitzu. That's one of the drawbacks of living high above the clouds. Another was getting up and down. But there were more advantages than drawbacks: For instance one heck of a view! Real estate agent Patty Keys was constantly sending the ninja pamphlets to persuade them to sell. They weren't going to sell, and they were starting to feel really bad for the mail man who had to make the trip up there several times each month. His job hadn't become easier either. Nya had come up with a system by which they could move the floating island to new locations as they pleased. All it took was some very thick chains and the powerful boosters of the Destiny's Bounty. The sad reality was that the prospect of a temple with an ever-changing view just got Patty Keys even more eager… which meant more work for the mail man and his old pedal propelled bicycle. Cole had considered to reveal that the Temple was still haunted to scare Patty off. But he had decided against it for Jay's sake.
+    </br>
+    This morning Cole was nowhere to be found. As Jay entered his room, all he found was Cole's neatly made bed, and a note carefully placed on his pillow.
+      </p>
+      <p>
+        <b><i>Cole was already far away.</i></b> He had left before sunrise, which is pretty early when you live on a floating mountain. He was on foot and carried only a small bindle with some food and necessities (cake) plus his new weapon of choice, a heavy hammer which had been given to him by his father Lou. Cole was glad that his father had come to terms with him being a ninja, and the gift of the hammer seemed to be the definite approval from him. Cole had become quite fond of it too. Sure it took some getting used to, and it was A LOT heavier than his old scythe, but it seemed very fitting for a Master of Earth wield a hammer.
+      </br>
+      But that wasn't exactly what was on Cole's mind as he wandered on. He was still haunted by his dream and what Master Yang had told him.
+      </p>
+      <p>
+        <b><i>I am Yang…</i></b> I used to be known as the Sensei without students. I was very strict about titles back then. Being a Sensei is not something you come by easily, and so others should respect you. I used to be very strict with my students about such formalities. Now I am but a ghost of my former glory. No longer a Sensei but still the master of the Temple of Airjitzu. It is floating in the sky. For a while I was extremely confused about it, but since the Ninja moved in, I have obtained a few answers. First I asked Cole, but he was as clueless as I was. Jay and Nya, on the other hand, seemed to know something. I have been able to eavesdrop on them on several occasions, and I have picked up bit and pieces. Apparently events involving the notorious djinn pirate king Nadakhan happened and un-happened, and my temple becoming airborne is an anomaly of those events.
+      </br>
+      So Nadakhan is still out there. I wonder what possibilities that presents. Is there some special way that a djinn can cheat death? Can a djinn really die? I will need to look into that.
+      </p>
+      <p>
+        I have done terrible things in my pursuit for immortality, acceptance, and glory. My fate, bound forever to this temple is a fitting punishment, and l am at peace with that. I still feel shameful sometimes, and hope that I will one day be able to redeem myself to the students I wronged.
+      </br>
+      I have just one student now: Cole. We have agreed to keep my presence a secret for the time being. I suspect that old Wu had some suspicion too. Once he stared intensely at my painting in the main dojo for several minutes, then chuckled and winked at it before leaving. But he is gone now, so only Cole knows for sure.
+      </p>
+      <p>
+        We have discussed at length the nature of our relationship. It is one forged out of necessity. I desperately need company. I admit that now. And he still has many questions about his own existence, having been touched by death in several ways himself.
+      </br>
+      There is another reason too. I finally told him last night.
+      </p>
+      <p>
+        Before we met, I foolishly experimented with life and death; now I pay the price. After the incident where I used the Yin Blade and brought a curse onto myself, the Temple and my students, I found myself with plenty of time on my hands. I spent those captive years studying curses and the afterlife. And the place I yearn to go most of all, but never can:
+      </br>
+      The Departed Realm is the most mysterious of all. All of Ninjago's residents who have passed away in the true sense of the word have gone there. Only a few has ever made it back. Normally, if you can talk about normal when you talk about Realms, travel between them is possible in several ways. But the Departed Realm is different. Incantations, dragons, Realm Crystals, Traveler's Tea or back doors are not enough. To access the Departed Realm you need a rift. But a rift is dangerous, unstable, seems to have a will of it's own and you have to force it open. You can never be sure of the outcome. I worry about Cole.
+    </br>
+    I don't know what will happen, but I have had much time since the last Day of the Departed to think about it. There are many possibilities but none of them are good. Cole is a pawn in it. I have no doubt that his dream speaks some truth, and if so he will perish. This is tragic enough, but I fear even more is at stake. What will happen if a rift is unchecked? Will it keep expanding? Will it consume Ninjago just as it did Cole in his dream? Will the Departed be able to re-enter Ninjago? If they do, how many will there be of them and what will they be? This is a direct result of my doings on the Day of the Departed. I was starting to feel that there may have been more good than bad that came out of that fateful night: Cole turned mortal again, my students' curse was lifted and my old lonely temple was cleansed and became the home of the Ninja. But now I see that it isn't so.
+      </p>
+      <p>
+        <b><i>The rift on Cole's forehead MUST be closed!</i></b>
+      </p>
+    </div>
+    <div id="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/926439448019177472" target="new">Original post</a>
+      </p>`
+
+i2=`Way of the Departed is written in jagged letters. Beneath it, Cole is walking, wearing  his back gi with the hood pulled down, and his green glowing scar is fully visible on his face. Cole has a warhammer straped on his back, and is carrying a bindle. On the background, the sun is rising behind a mountain chain, and the floating Temple of Airjitzu can be seen.`
+
+
+t3=`<p>
+        <b><i>It is night and I am tired.</i></b> Soon I will need to sleep.
+        Surrendering myself to the dream again scares me. The bonfire in front
+        of me crackles. It should warm me but I feel cold like in the dream. For
+        the hundredth time I question why I went alone. “Ninja never leave a
+        ninja behind. Work as a team. Trust your friends.” All those lessons
+        Master Wu taught us. Why am I ignoring them? I guess there are some
+        things that you just need to do on your own. Master Wu went alone to
+        confront Acronix at the burned down monastery. Look what that got him:
+        rapidly aging and ultimately trapped in time. I feel like I have failed
+        him. Why am I here on a quest of my own when Lloyd swore we would not
+        rest until we found him again? We have done a lot of searching, but this
+        is not like finding a lost pair of gloves. Master Wu was lost in time,
+        so this is not just a question of where but also when. It could be
+        impossible. Maybe he is not even here yet or has been and no longer is.
+        We all know it. No one has said it out loud, though I have felt Jay
+        bursting to do so several times. Restraint from Jay… imagine that! I
+        guess we are growing older. He is my search partner. Lloyd split us up
+        in the beginning to widen the search. Two in each search party. Jay and
+        I, Kai and Zane, Nya and Lloyd.
+      </br>
+      Jay is good company, if you can endure the constant steam of words coming at you. He keeps jabbering on about the secret identity of Samurai X claiming that he's got it all figured out. He must have guessed on everyone in Ninjago by now. Even someone called Ekosan, though he quickly disregarded that theory and then flat out denied having ever said it. One day he almost assaulted the helpless mail man who was just dropping on yet another flyer from Patty Keys. <i>"Admit it! Reveal your secret!"</i>, he shouted at him. The poor guy started stuttering something about the obscure practices on how it is decided who gets their portrait on a stamp and who doesn't. In a good/bad cop situation, Jay would definitely be the bad cop. Lloyd saved the mail man that day and apologized. We didn't see him for six weeks after that.
+    </br>
+    First we hit the Library at Domu. Jay had all these wild theories about time travel, and theorized that if Master Wu had fallen into the past, he would have left a message or a book for us to find there. Fourteen days of intense reading later, we abandoned the book idea. He could have left a message in any way… more likely a message on something more durable than paper. Carving on rocks? We then started searching places that held special meaning to him: the monastery where he lived with his brother. The Caves of Despair where Morro had perished. Zane and Kai even hired Ronin to take them to the First Spinjtzu Master's Tomb. But leaving no rock unturned is a better saying than something lived out in real life. Just like "We shall not rest until…".
+  </br>
+  That's why we returned to the Temple once in a while: to rest. But we were all restless. So rest turned to training instead. We found new techniques and opportunities within Spinjitzu. Ray and Maya couldn't be very helpful either. They had created the Time Blades and we still had one of them. But just the one and no plan. Also Lloyd insisted that it was too dangerous to keep around, so Kai and Nya returned it to the Boiling Sea. It will be safe there… only a master of water and fire together can go there.
+</br>
+After reuniting with Kai and Nya, Ray and Maya went on a tour of Ninjago. They probably still are catching up. Kai and Nya went on for so many years not knowing what happened to them. That must have been hard. And now they have to go through the whole thing again but with Master Wu. I am tired of losing people in my life! I hope Ray and Maya are having fun and I hope that Kai and Nya are sti…
+      </p>
+      <p>
+       <b><i>It is cold and I am freezing.</i></b>  I shouldn't be, because I am not alive. I am in an ice labyrinth. It feels like I…
+      </p>
+      <p>
+        <b><i>I wake with a jerk.</i></b> Where am I? I stare into a bonfire… oh yes… of course, I must have nodded off for a second. Man, that dream is there immediately. It's like a predator stalking me and just waiting for me to let my guard down. I drink some tea and eat a bite of Mrs. Walker's crumb cake that I brought along with me. It doesn't taste very good tonight though. I'm sure that it is more my state of mind's than the cake's fault, but it tastes like ash… I still wash it down with the tea. Eating cake is like muscle memory to me. It's just something I do to occupy my hands and mouth some times. I love cake but I think it would be healthy for me to cut back. In several ways.
+      </br>
+      I think about what Master Yang told me. He has told me not to call him master, but it still slips once in a while.
+    </br>
+    Though he is bound to the temple, he can still reach out into the outside world through former possessions of his. Like that painting on the wall in the museum. He was careful not to get my hopes up too much, but he suggested that I would start my search for answers at a village called Nom. I recognize the name, but I can't quite put my finger on it. We were together when he reached out. It took all of his concentration. It was extra hard because of the distance he told me afterwards. I swear could almost see him sweating. A ghost sweating… that's a contradiction in itself. When I was a ghost I never sweated. I wonder if sweat would have stung. Ghost logic… who can really tell? When he finished, he was completely exhausted. He could hardly talk, but said that he had felt a presence in Nom who might be able to shed some light on my situation. I should be able to get there by tomorrow night if I walk all day.
+  </br>
+  But before that, there is one big obstacle in my way, and it's time I close my eyes to face it.
+</br>
+I take one last sip of tea, throw another log on the fire and scowl myself for not bringing a blanket. I guess planning ahead is not my strong suit. Tonight will be a cold one.
+</br>
+I close my eyes and try to think happy thoughts.
+</br>
+I am 5 years old. I see my father and my mother dancing in the moonlight on the terrace in front of our old house. I have been tucked in, but I've snuck out to watch them. I do that often. My dad is so elegant. When grow up I want to a be a dancer just like him. Why would I want to be anything else in world which so perfect?
+</br>
+<p style="text-align:right; margin: top 1px;">
+<b><i>. . &nbsp . &nbsp . &nbsp &nbsp. &nbsp &nbsp. &nbsp &nbsp. &nbsp &nbsp. &nbsp &nbsp. &nbsp &nbsp &nbsp. &nbsp &nbsp &nbsp . &nbsp &nbsp &nbsp . &nbsp &nbsp &nbsp . &nbsp &nbsp &nbsp . &nbsp &nbsp &nbsp &nbsp. &nbsp &nbsp &nbsp &nbsp. &nbsp It is cold, and I am freezing. </i></b>
+</p>
+      </p>
+    </div>
+    <div id="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/929281186438045697" target="new">Original post</a>
+      </p>
+    </div>`
+
+i3=`Way of the Departed is written in jagged letters. Beneath it, Cole is sitting at a campfire near the edge of a cliff, facing away from the viewer. Beyond the cliff a mountain can be seen, and above the Moon is shining on the night sky`
+
+
+t4=`<p>
+        <b><i>I have been walking for the entire day.</i></b>
+        </br>
+        The walk is proving more difficult than I had imagined. I didn't get too much sleep last night and won't be able to make it all the way to Nom today. That means another night under the sky without a blanket. It started to rain last night, so tonight I will make sure I have shelter.
+      </br>
+      The sun is setting. There is a forest here, which should provide some cover for me. I walk in just far enough so I can still see edge of the forest and won't get lost. A loud animal shriek shreds the silence. I must have disturbed some animal. I continue in. The fire will keep whatever it was at bay. There are logs fallen over here. Some seem to have been uprooted or cut down as part of a battle, but they are rotting and overgrown so it must have been a while ago. I don't worry about it. I just want to get as warm as I can, eat a bit of crumb cake and ready myself to deal with my dream as much as I can.
+      </p>
+      <p>
+        <b><i>One of the alarms has been triggered.</i></b> It is time to go. My father thinks I am being paranoid, but ever since those strange time disturbances half a year ago, I have been more vigilant. It was the northern forest alarm. Through my spyglass I see a faint glow from near the edge of the forest. It is probably just some traveler, but you can never be too careful. I ask Jerahn to bring my gear.
+      </br>
+      As I make my way into the forest, I pass a pile of Nindroids. They have been lying here for a long time, and some have started to rust. It's an eye sore. My father really should make sure that they get salvaged. He is the mayor after all. They bring back memories of a different time and remind me that you can never anticipate what the future will bring. But I have to stay focused on the present. There is an outsider in our forest and I cannot take any chances. Silent as a ghost I move in on my target. That is my thing. Stealth and surprise. Though I wear metal armor I move with grace. I become one with the shadows and prepare some smoke pellets. In a second I will reveal myself in a display of mystery and magic. Like a phantom returning to Ninjago from the dead.
+    </br>
+    I watch from the dark. Only one person hunched over by a fire. An eerie green glow emanates from it's forehead. A being of magic? I cannot make out any features. By its side is a large hammer, but it is a special design and not one of the ones used by the quarry people in the west mountains. I will need to be careful.
+  </br>
+  My entrance will provoke a reaction in my target, and in a fraction of a second it will reveal what kind of an opponent it will be. Some freeze with fear. Some run away in terror. Nindroids tend to pause for a brief second as they analyse something that doesn't fit with the logic of their programming. That is usually enough time needed to overpower a few of them. Often when reveal myself I won't even have to fight, but I doubt that this will be one of those times. I throw down two smoke pellets hard!
+      </p>
+      <p>
+        <b><i>There is a sizzling sound.</i></b> Instinctively I roll sideways, pick up my hammer and get to my feet in one movement. The entire area gets engulfed in smoke. It is bathed in the green light from my scar. A booming voice commands me.
+      </br>
+      <i>“Surrender yourself to the Phantom!”</i>. My mind races. Phantom? Does this have anything to do with the rift? Has some henchman of death arrived to claim me?
+    </br>
+    The apparition breaks through the smoke and I barely parry two swords. Gone again. I am at a disadvantage here. This is not a good place to fight with a heavy hammer. The space is too confined and I am blind in the smoke am attacked again. I block the swords but is kicked backwards. Just as I steady myself I am hit again from the back. The blows aren't that hard. It feels like whatever is in the smoke is trying to disarm me or drive me way, not take me down. It's time to turn the situation around. I drive my hammer hard into the ground. The entire forest shakes. I hammer my fists together hard and build up energy for my spin. The world becomes a blur as I whirl into my Spinjitzu tornado, clearing away the smoke and several of the smaller trees. I come out of it  and grab my hammer. This is an arena fit for a fight!
+  </br>
+  <i>“Cole?!?”</i> The voice saying my name is filled with disbelief. <i>“I'd heard that you were… departed… a ghost… gone.”</i>
+      </p>
+      <p>
+        <b><i>I am speechless.</i></b> I did not expect this. Not at all. I am standing in front of a friend that I thought had passed away. I have heard conflicting stories about what happened to him, and guess I just assumed the worst. But here he is, standing in front of me looking quite alive. I don't know what to feel. Surprise, happiness, confusion all roll into one numb mess. I lower my swords. He looks back at me puzzled, lowers his hammer and smiles as he speaks.
+      </br>
+      <i>"Nom! Of course… that's where I have heard that name before! Hi Seliel! Still doing the Phantom Ninja thing, I see!"</i>
+      </p>
+      <p>
+        <b><i>45 minutes later Cole and Seliel arrived in Nom.</i></b> The walk had given them plenty of time to catch up on the last few years, and it had been a nice and joyous walk. Seliel had been VERY surprised the hear about Nya and her powers of water. Apparently some charlatan called Lar had passed by the village and convinced everyone that HE was the Master of Water. He had even duped a local publisher to release fake stories about his "legendary" battles. Seliel was furious until Cole reminded her, that she herself was a bit of a con artist. If anyone had the right to call himself a Phantom Ninja, it would have been him. At least until recently.
+      </br>
+      Cole had neglected to go into any specific details about his scar or his dreams. All he had mentioned, that his Master had sent him on a mission to meet someone in Nom.
+    </br>
+    Phantom? Cole wondered if the person he was supposed to meet was Seliel. Could the whole "Phantom Ninja" thing have mislead Master Yang to believe that the phantom was an actual ghost who would have some knowledge about the Departed Realm and the rift?
+  </br>
+  Seliel is chatting on about how well Nom has been doing. She is clearly proud of how her father has turned the village's factories into successful manufacturers of electronics. They are even doing business with Borg Industries now, and it is clear that the village is doing well. I am invited to sleep in the City Hall. Seliel says there is someone she wants me to meet tomorrow.
+      </p>
+    </div>
+    <div id="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/931254457026822144" target="new">Original post</a>
+      </p>
+    </div>`
+
+i4=`Way of the Departed is written in jagged letters. Beneath it, a campfire illuminates Cole in the middle of the woods. He is standing at the ready, wielding his warhammer with an engry expression on his face. His enemy os unseen. Cole's scar is glowing green, and the light parts the shadows around him.`
+
+
+t5=`<p>
+        <b><i>The next morning Seliel asks me if I slept well.</i></b> I lie and say that I did. She gives me a short tour of the town. It has changed a lot since we were last here. Ornate buildings have been built in the style and tradition of the Edo period. It reminds me a lot of the Temple of Airjitzu and the whole village has a lot more charm to it now. It all seems very authentic. When I ask about it Seliel tells me that some of it actually is authentic. It was brought here and restored from some decaying villages several hundred of miles south.
+      </br>
+      I wonder what Patty Keys would make of this. Probably better keep it a secret, or that poor old mail man will have yet another nail in his coffin. We really should talk to Cyrus Borg and get him to develop something to help him out.
+    </br>
+    We arrive at a dojo. Seliel proudly presents it as the Phantom Dojo. I guess I don't respond the right way, because she suddenly blushes and start talking about how silly that name is and how she means to change it. Her great inspiration is Nya, how she kept her identity secret and the rumours of a Samurai X cave. I tell her about the new Samurai X, and how no one knows who it is. Big mistake! She is all over me with questions I cannot answer, so I derail the barrage of questions asking to see the inside of the dojo.
+      </p>
+      <p>
+        <b><i>Cole seems distracted.</i></b> I feel foolish about trying to impress him with that stupid name of my dojo, but I think there is something on his mind. And I am also just stalling. That glowing scar on his face. He has been avoiding my questions about it, but it's obvious that it's not natural. That's why want him to meet Jerahn. He is my aide and my sparring partner. He is younger than me, but he seems to have an older soul. He is a bit of an enigma to me but I trust him. He arrived here six months ago. He didn't talk much and seemed bewildered, confused, and aimless. Like someone whose life has just been uprooted and needs to find a new direction. We are a welcoming community, my father insists on it, so we took him in and offered him a home and food in exchange for work. He renovates buildings for us. He turned out to be more helpful than we could have imagined.
+      </br>
+      Here he is now! He pauses as he enters the room and stares at Cole like he has seen a ghost. His eyes are filled with wonder. No… not wonder. I can't quite read his expression. It's not confusion either. There is a bit of surprise somewhere in there. A moment passes. I look over at Cole. There is no particular reaction from him except he smiles politely. Jerahn walks across the room looking long and intensely at Cole's scar. Then shifts his eyes to meet Cole's.
+    </br>
+    <i>"You look different!"</i> The greeting catches Cole off guard.
+    </br>
+    <i>"Have we met before? Do I know you?"</i> Cole replies.
+    </br>
+    <i>"We've met before. But we have never been properly introduced. When we last met you punched me in the face."</i> Cole looks completely lost now.
+    </br>
+    <i>"You didn't know my name then. You called me Chuck."</i>
+      </p>
+      <p>
+        <b><i>I feel like I am being hit by my own hammer.</i></b> Hard! I don't recognize the guy, but I recall the situation.
+        </br>
+        It is the Night of the Departed. I am being held in these special chains that work on ghosts. I need to stop Yang and am doing my best to reason with my guard. When that fails I change my approach and “persuade” him in a different way. I have thought about the situation many times since. I say the first thing that pops into my mind. It's not exactly clever.
+        </br>
+        <i>"I didn't know you had long hair… and sorry… for punching you… and calling you names too, I guess."</i>
+        </br>
+        His face lights up in a smile. <i>"Are you kidding?!? You freed me… us. Look at me! I am whole again. You can call me Chuck all day long if you want to. I owe you!"</i>
+        </br>
+        I breathe a sigh of relief, but still don't know what to say. After an awkward moment Seliel cuts in. I am grateful for that.
+      </br>
+      <i>"This is Jerahn. He is our best carpenter. Or at least our most agile. If you need a roof mended Jerahn is your guy. He really knows how to swing a hammer and he knows AIRJITZU!"</i>
+      </br>
+      Smiling Jerahn looks at the hammer hanging behind my back. <i>"I guess that makes two of us."</i>
+      </br>
+      My head is flooding over with questions. So Yang was right! There was a person here who may be able to help. But how was Yang able to reach out to this place? Why did Seliel want us to meet and how did she know that we had a connection? Before I can ask, Seliel asks about my scar again. She looks strict now. When I try to evade the question, she cuts me off. She wants to know exactly what it is. Jerahn shifts uncomfortably. My mind is racing. Do I come clean? What should I say? I hardly know anything and this is way too personal. We stand there and the tension is unbearable.
+      </br>
+      Seliel shifts her eyes to Jerahn like she is giving him an unspoken command. Jerahn brushes his pale brown hair away from his face. And there is it is! It has the same shape and placement as mine. But it is not glowing green. It looks more like a real scar. Is it a scar?
+      </br>
+      <i>"It appeared on me a few days after,"</i> he says. <i>"The others got 'em too. They aren't always there though. They appear and disappear. It doesn't hurt when they are there. Only when they come and go. It varies how long they are there too."</i> I take my eyes off his scar, and look him straight in the eyes. <i>"Have you had… dreams?"</i>
+      </br>
+      He does not like that question. He looks over at Seliel with fear and guilt in his eyes. He hasn't told her.
+      </br>
+      <i>"I…  I need to go. I've got some… roofing to do."</i> He stutters and paces out of the dojo.
+      </br>
+      Seliel does NOT look happy. <i>"I do not appreciate having secrets about strange stigmatas, rogue magic, and communal dreams roaming around in MY town! We are not finished!"</i> She shoots me a scornful look and walks off after Jerahn.
+      </br>
+      I feel pretty bad about myself.
+      </br>
+      Outside the sun shines warmly. I would enjoy it if didn't feel so guilty. I spot Seliel walking fast between two houses in search of Jerahn. I want to apologize and come clean to her so I start to follow her, but she weaves in and out of narrow alleys and it's not easy to keep up.
+      </br>
+      Suddenly an arm grabs me and pulls into a doorway. My scar illuminates the darkness in an eerie green glow.
+      </br>
+      It's Jerahn. He hushes me as he leans out and looks up and down the street.
+      </br>
+      <i>"There is something else I need to show you!" </i>
+      </p>
+    </div>
+    <div id="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/934077826034225152" target="new">Original post</a>
+      </p>
+    </div>`
+
+i5=`Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his hood pulled down, and his warhammer is straped to his back. He is looking at a man turned back to the viewer, who's wearing grey clothes and has long, dark hair tied in a low ponytail. To the side of Cole stands Seliel, a womam wearing a light blue gi. She has brown hair with a light blue streak, and she is looking angrily at Cole.`
+
+
+t6=`<p>
+        <b><i>I play around with my powers while I wait and make a sculpture of Cole.</i></b> It is effortless. I have years of interactions with him stored in my easy access memory banks. He has been gone for two days now. I look at the refractions in his shape. It is a hot day and he will be gone soon. I should not have made that. I detect my emotion readout decline. Two days are not a long time but the circumstances of his departure troubles me. The note he left behind was most perplexing.
+        </br>
+        She will be here soon. She is always punctual. I look up at the floating island in the sky. That does not compute. I have run countless scenarios but none of them make logical sense. Even with my recent upgrades the numbers just don't add up. I wonder if I would be able to get it right if P.I.X.A.L. was still in my head. I conclude that some factors in this world must be outside the grasp of logic. Like my own power. I have vague memories of how I got them, but there is no logic I can make of that either. Just that it happened.
+        </br>
+        I see dust in the distance from a car approaching. It lifts my emotion readout a bit. Claire is good to have around. It is nice with an outside perspective on things sometimes.
+      </p>
+      <p>
+        <i>"Hi Zane! Hot day isn't it?"</i> Claire looks over at the puddle under the unshapely ice block which recently resembled Cole, but she does not comment on it.
+        </br>
+        <i>"Ready for a bit of housekeeping? I know I am!"</i>
+        </br>
+        Claire seems to love coming here. Even though her job is the mundane one of cleaning the temple and doing small repairs, she always seems so joyous. She has a history with the temple. Back when it was still haunted by the ghost of Sensei Yang, her father was the caretaker. It had become a tourist attraction back then. He did not do a very good job. Claire has told me that he fully believed in the stories about it being haunted, and he was deathly afraid of it. That is the reason the temple was in such disrepair back then. He would not go near it and mostly tended to the grounds around it. Claire on the other hand is not afraid of anything. She often made her way inside to explore the staircases, studies, corridors, dojo, atelier and such. I suspect she knows the interior lay-out better than we do. She seems very eager today.
+      </p>
+      <p>
+        <i>"Can we do a sweep of the Temple?!?! Please!!!"</i>
+        </br>
+        I was expecting her to say that. I am not comfortable with it. Summoning my elemental dragon has become increasingly difficult these past few months. It takes a much higher level of concentration now. The others have felt it too. I've run simulations on the scenario that it has something to do with Master Wu going missing, but the feedback offers no explanation. Maybe it is another one of those things that cannot be defined within the parameters of logic.
+        </br>
+        I find myself saying <i>"Yes Claire. A sweep could prove most satisfactory."</i> It contradicts my coding to endanger another being unnecessarily. I shall strain myself to make it safe.
+      </p>
+      <p>
+        It is very interesting to observe Claire as we take to the skies on my Ice dragon. I focus on the dragon, but it is hard to ignore the pure and unhinged joy she expresses. Our lives have become lives of duty and responsibility. Claire is not burdened by that. I admire and envy her. I find myself enjoying the few sweeps of the temple while Claire waves enthusiastically at Misako feeding the koi in the pond.
+        </br>
+        As we set down Claire wastes no time. She loves that temple, and the fact that it is now floating and in pristine condition is just another plus for her. She seems to be a bit disappointed that it is no longer haunted though. She chuckles as she talks about how that was the thing that made his father keep his distance. Now that it's not haunted, keeping the grounds shouldn't be a problem for him. Except he is also afraid of heights. It was Lloyd's idea to get some help to take care of the temple. We need to stay focused on our search for Wu. We will soon be leaving again. I guess Jay will need a new search partner. Misako perhaps. She greets Claire with a warm hug.
+        </br>
+        <i>"Great Wohira this place looks great! Less than a year ago it was a complete mess. An AWESOME complete mess, but look at it now! Dad had his hands full keeping looters away, but with this whole airborne thing you guys've got going I guess you don't have that problem anymore!"</i>
+        </br>
+        Misako chuckles. <i>"Not at all. Having the best Ninja in all the land and some elemental dragons around also helps!"</i>
+        </br>
+        We have not told Misako about our fading ability to summon our dragons. The loss of Master Wu has taken its toll on her. She is as driven as any of us to find him. She puts up a brave face, but I can feel her pain. She pins up photos everywhere. Not just of him but also us, our friends and those we care about. Even on the Bounty. I have not observed such behaviour in her before. With loss comes reflection and appreciation of the good things in your past. My processors have no problem finding the logic in that.
+      </p>
+      <p>
+        <b><i>"Follow my lead!"</i></b> Jerahn tells me as his eyes scan over the street, making sure we are unseen. I do not like doing this, betraying Seliel's hospitality. But after all, this is the reason why Yang sent me here, so I hide away my guilt for later.
+        </br>
+        He scans the street to make sure the coast is clear, and then he Airjitzus to the roof of one of the tallest buildings. I follow. When I join him, he is already removing some wooden boards from the side of the wall.
+        </br>
+        <i>“I did not come by this place by chance. I was following a lead”</i>. His voice is intense. <i>"Come inside. No one knows this room exists."</i>
+        </br>
+        It is dark inside. Only the light of the rift on my head illuminates the room. I see that Jerahn has a reason to be secretive. The place is filled with ornate artefacts, vases, weapons, idols and paintings. He turns to me and looks me straight in the eyes.
+        </br>
+        <i>“All this stuff is authentic Edo period. Those villages where the building materials and this stuff comes from. They were old but they were in fine shape. They were abandoned. No one knows why, when and what happened to the people who lived there. They just left… or were taken. No one knows!"</i> Jerahn swallows hard. <i>"And that's not all. There is not only stuff here from those towns. There is something else. Something made years ago. Back when I was still a ghost."</i> He points to the corner of the room. And there, bathed in the light of my rift is a portrait of Master Yang.
+      </p>
+    </div>
+    <div class="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/936414730465427456" target="new">Original post</a>
+      </p>
+    </div>`
+
+i6=`Way of the Departed is written in jagged letters. Beneath it, stands an ice sculpture of Cole, wather pooling at its feet. It stands with an stern expression, holding an warhammer behind its back.`
+
+
+t7=`<p>
+        <b><i>It makes sense now.</i></b> At least that nonsensical and elusive ghost sense that I've gotten used to dealing with. Here is a painting of Master Yang looking back at me. It is different from the one at the museum and the ones still hanging in our temple. This one is more crudely painted.
+        </br>
+        <i>"Master Yang did not just teach us Airiitzu,"</i> Jerahn says, <i>"It was a whole philosophy. A lot of pieces that needed to fit together. Patience, focus, meditation and such; Master Yang combined the lessons in various different ways. In the earlier hours on end painting him while he was in some meditative trance. In the beginning I found the whole thing stupid and vain on his part."</i>
+        </br>
+        Jerahn has a guilty look on his face saying that.
+        </br>
+        <i>"But eventually I got it. He was teaching us tolerance, focus and patience. Realizing that, the obstacle moved out of the way, and my path to Airjitzu became much easier."</i>
+        </br>
+        I ask him about how the painting got here. He shrugs.
+        </br>
+        <i>"We saw a LOT of lootings during our time as ghosts in the temple. Thieves would come at any time during the day or night. I admit we had some fun scaring them off. Even captives need some fun. But also there was a purpose to it… getting them out before the clock struck and all. We did those guys a favour! You know all too well what happens. Some thieves made it with some of those Edo period artifacts they came for though. I guess that's how the painting ended up here."</i> He laughs.
+        </br>
+        <i>"Someone must have thought my strokes were authentic Edo period artwork. Can you believe that?!? I think I should feel proud."</i>
+        </br>
+        I am transfixed on Master Yang's stern look on the painting. So that's one question answered: that's how he could reach out to this place and knew where I should go. But the answer just opens up new ones. First one that comes to mind is about Jerahn's dream. He seems almost relieved by my question. He has been holding it in for too long. When he started to tell me, it sensd a shiver down my spine.
+        </br>
+        <i>"It's cold. It's almost like I'm dead. I am in some Ice labyrinth. I know it's just a dream because I am with you guys. The Ninja I mean. And since I do not know you guys and I am in a place which I do not know, I figure that it's just a dream. Still it feels pretty real though. You guys are staring at the ice, so I figure that I should do that too. But I get distracted by a voice. It's a young voice filled with determination, but also conflict and pain. I don't know who he is talking to and sometimes it even seems like he is arguing with himself in two different voices. I find my way around the ice wall to check it out. It's the green ninja… but his voice sounds  different… like it comes from a different place and he looks pale. He shakes his head violently, put on his cowl and gets out his weapons. I see you on the other side of the ice. He lunges at you, slashes the ice and cleaves your head in two… I am paralyzed. Your scar hangs in mid air convulsing. It's the big green glow of light that wakes me up."</i>
+        </br>
+        I look at it like it can offer some explanation.
+        </br>
+        I look back at the painting and decide to play my cards close to the chest. This is getting complicated and I am not as smart as Zane. Jerahn and I both have secrets. We are both here because of Seliel and Nom's kindness, but we are not being honest. Can we be honest? What is going on here in Nom? The town is being mended using materials from Edo period cities. Cities whose houses are being re-purposed because they were uninhabited. People have gone missing, and now this place is being ornamented by their cities' remains. Does Seliel know about that? Does her father? He is the mayor after all! This is getting too complicated and I need time to think. As if reading my mind Jerahn continues.
+        </br>
+        <i>"You know how I found out about those cities? Some of the others. Other students I mean. Some returned to their villages, only to find their homes torn down and their families missing. They are out there searching for them right now. And I'm here decorating Nom with THEIR homes… how messed up is that?!?! I have been talking…"</i>
+      </br>
+      <i>"JERAHN!!! WHERE ARE YOU?!!!"</i> Seliel's irate call echoes from below. Jerahn looks to me as if I can offer some advice. <i>"You can not avoid her for long. Go meet her and say we will all talk tonight… and tell her to bring her father too. I will have a look at this stuff and board up. Don't worry about it."</i> Jerahn gives me a grateful nod and exits.
+      </p>
+      <p>
+        I am alone again, but I know I won't be for long. Staring into the eyes of the painting brings me to a dreamlike trance that I have experience only once before. Master Yang starts to move and it's time to get some answers.
+        </br>
+        It is odd to see him animate in the picture. It seems like he can’t quite adjust to Jerahn’s brush strokes, and the situation becomes somewhat awkward. He finally gets comfortable or just ignores it. Then he focuses his attention on me.
+        </br>
+        <i>"Cole my boy… I am… glad that you have found this painting and that we have this opportunity to talk. Have you found anyone… how are your dreams?"</i> He looks worried at the rift on my head. I quickly fill him in. As I talk about Jerahn his spirit seems uplifted, but as I get to the Edo era was towns he looks shocked. I finish. He doesn't speak for a while, but when he does, it is with great concern and seriousness.
+        </br>
+        <i>"The Edo period was a time known for great magic. The Edo magic was practiced by many sorcerers in the southern parts of Ninjago. Most used it for good, but the magic was not safe. It was unpredictable and disruptive. Easy to use but not hard to get wrong. I don't know much about since it was mostly lost. I did some studying on the subject when first moved into the temple, but not many texts exist. I did find out that Edo is ancient ninjargan for earth. Edo magic drew upon the power of the earth. The Edo Sorcerers needed to draw up and focus the power. That is the origin of the Edo era villages. Their towers and spires, just like the Temple of Airjitzu, were designed to channel and concentrate the power of the earth so the sorcerers had easy access to it and could draw upon it when they needed to. But as I said; Edo magic often produced unpredictable results. It wiped itself and its users out. But now it seems that Nom is bringing all of these Edo relics here. An enormous amount of Edo power will build up. Who can be behind this?"</i> Master Yang silences.
+        </br>
+        Sorcerer? I know only one sorcerer. The last time I saw him I was still a ghost and so was he. On the Dark Island.
+      </p>
+    </div>
+    <div class="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/939068359056023552" target="new">Original post</a>
+      </p>
+    </div>`
+
+i7=`Way of the Departed is written in jagged letters. Beneath it, Cole has his back turned to the viewer. He is wearing his black gi, his hood pulled down and his warhammer straped to his back. The green glow of his scar wraps around his head. He is looking at a painting that hangs crooked at a wall. From the picture, the green, ghostly image of Master Chen lunges forward. Green mist and light sprouts from his hands and the picture itself. Beneath the picture, there are broken shelves with trinkets, and a tilted vase. To the side, there is a larger vase, a sheathed sword, and a spear.`
+
+
+t8=`<p>
+        <b><i>I need to be patient.</i></b> It has become my cursed mantra during my residency here. I have been patient all of my life so why should death be any different for me? I have spent most of my life as a follower. In death I have attempted to come into my own. I knew what remained of me had limited time in Ninjago so I had to seek new battlegrounds. My Realm of Shadows endeavor was not exactly a success. The Ninja managed to bring the Dragon of Light before me. Later I failed to acquire the Teapot of Tyrahn in time and left for the Dark Island. But even there the Ninja thwarted my plans… or rather my old rival's brother thwarted me with their father's golden hulk of an atrocity. I hate light… it seems to be my bane. Even Garmadon had embraced the light and become a goody-two-shoes when he cheated me into the Cursed Realm. I should have know better. Even when he was younger he was a cheat. Using Spinjutzu to rob me of my rightful title of Lord. Dishonorable!
+        </br>
+        I escaped and now I am here. Being patient… King of my own Realm… Sitting on a throne made from the bones of dead men. King of the Underworld.
+        </br>
+        This place was ripe for a take over. These plain Skullkin are sheep with no direction. They are broken warriors disgraced in battle without redemption or honour. They are creatures with no aspiration and direction and yearn to be governed and be shown a way. And do I have plans of them!
+        </br>
+        But for now I must remain patient. The plan is nearing its conclusion: the Elemental Master in my employ has played its part for now. It will be a matter of time before my helpless pawn in Nom finishes his misguided vanity project. The boy with the rift has been lured into place, and soon when enough Edo power has built up, I will rip open that rift and put my prisoners and my undead warriors to good use Patience…
+      </p>
+      <p>
+        <b><i>"Clouse?"</i></b> Yang ponders. I have just told him everything about our previous encounters with the sorcerer.
+        </br>
+        <i>"I know about Chen. I did invite him back on the Day of the Departed."</i> He look ashamed saying that. <i>"But I never knew he had an associate who was a sorcerer. And an Edo Sorcerer at that. I guess some of the more stable incantations were documented in that book of his. You were wise to burn it."</i>
+        </br>
+        He is a ghost now, but he can still do magic."</i> I tell him. <i>"On the Dark Island he used dark matter to strengthen his magic. But Master Wu stopped him. We saw him be pulled through some vortex and we have no idea what happened to him. Do you really think this can have something to do with him?"</i> I ask though I kind of know what the reply will be.
+        </br>
+        <i>"We must assume the worst. I doubt you will find him in this realm though… at least yet. Ghosts can only sustain themselves for so long in Ninjago without being attached to a physical vessel, but you know this is still an Edo Sorcerer out there somewhere is indeed troubling. I must ponder this."</i> It looks like he is about to withdraw from the painting, but I stop him. I need to know about Jerahn's dream.
+        </br>
+        <i>"It is not clear yet."</i> He shakes his head. <i>"But there are three things you, Jerahn and Morro have in common. You have been touched by death, and each of you in your own way have been cursed. You have been freed from theirs. Maybe you should take some hope and consolation in that”</i> I remind him that Morro had to die to be completely free himself of his. Sensei Yang looks as troubled as he fades.
+      </p>
+      <p>
+        I board up the secret room as I think hard about what Yang just told me, and how much of this I need to share with Seliel and her dad. I am in two minds about how much I can trust them. My mind is racing with connections. Me, Jerahn, Morro… even Clouse? We have all been ghosts. And then there is the whole Edo, earth, rift, buildings, and me connection. Is the rift on my forehead opening because I, Master of Earth, have been around buildings which draw on the Edo power? Here I am in a new Edo hotspot of Ninjago! Maybe I should just get far away from here and the Temple of Airjitzu. That, all of a sudden, seems like a very compelling solution to try out. But then I think of Jerahn, the students, their neighbors and families who may need help. Ninja never leaves a ninja behind… I remember that much, Master!
+        </br>
+        I make my way down the building discreetly. As I walk though the town I hear a very familiar voice from a nearby window. My father and his Royal Blacksmiths are singing "Revenge will be Mine" from a radio while an old woman cleaning dishes hums along. It became quite a hit after the Stone Warriors attacked on the Day of the Departed. Gayle Gossip and her news crew were broadcasting from the concert, and because of the exposure and reruns the event got in the days after, my dad and his band decided to re-release the song. It was never a big hit, but now it's really taken off. It would be nice to see him happy again. Like real happiness. Money is not the answer, but maybe if they make a nice profit off it, he may be able to really relax a bit and find some new creative spark. I hope so. It's really what drives him. I think of Jay and how cheerful he seems. He was born in a junk yard and has poor parents… so I guess money and happines aren't really connected. Lately he has been trying to convince me that with Lightning Powers also come Lightning Foresight. <i>"Today a letter will arrive! A letter that will grant a great fortune! The Lightning Foresight has sparked the knowledge in my mind!"</i> he has dramatically proclaimed a number of times.Aand then he has almost overpowered the mail-man to get the mail yelling <i>"WHY ARE YOU HOLDING OUT ON ME!!! HAND IT OVER ALREADY!!!"</i>… Poor mail-man.
+        </br>
+        But back to the issue a hand: What do I tell Seliel and her father?!?! I guess I have a few hours to work it out. I take in the Edo era buildings. They seem like a threat to me now. Like an enemy waiting to strike. The rift on my head hurts and I hear the voice from the dream call my name again. I convince myself that I just imagined it, but it seems all too real. I recognize the voice, but it's not the tender voice from my childhood anymore. It's filled with sorrow and desperation… The kind of tone you speak to one who is beyond your reach.
+      </p>
+      <p>
+        <b><i>As Cole walks down the street,</i></b> a pair of eyes watch him. Or rather an empty pair of eye-sockets on a creature that has been promised by its new King soon to be whole again…
+      </p>
+    </div>
+    <div class="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/941638135477305344" target="new">Original post</a>
+      </p>
+    </div>`
+
+i8=`Way of the Departed is written in jagged letters. Beneath it, there is a tall building similar to a japanese pagoda. On the background, the sillhouette of other similar buildings is visible. Everything is tinted orange as the sun is low in the sky.`
+
+
+t9=`<p>
+        <b><i>The Skullkin watching Cole fights the urge to attack.</i></b>
+        </br>
+        It recognizes him from previous encounters, and what little remains of its soul holds a grudge. But it has specific orders from the new King to only observe and report. The promise to soon become something more echoes in its mostly empty skull. The faint memory, regret and embarrassment of his cowardice from back when he was still a he is ever present. The King has promised to take that away. For all of them. Soon this torment that has lasted for so long will go away. The new King has promised. He has told them to be patient.
+      </p>
+      <p>
+        <b><i>I feel like I am being watched,</i></b> but I brush it off. I need to clear my head before I face Seliel and her father. Some tea will help.
+        </br>
+        The young girl who pours my tea in the darkened tea room studies my scar curiously but asks no questions. I dig deep for some guidance. As I run trough Master Wu's lessons, I feel equal measures of gratitude, sorrow and encouragement. We learned so much from him, yet there was always more than he told us. Like some truth we weren't ready for.
+        </br>
+        When I was three years old, my mother told me that the moon was made of green cheese. That seemed like a pretty good explanation at the time, and I trusted her completely. When I was six a history teacher in school told me that the storm god Wohira created the mood. She crystallized a bolt of lightning and raised it far above Ninjago to light our way in the dark. I was dumbstruck. Why had mother lied to me? It took me a few minutes before I realized that she hadn't. She had just given me the truth that would make most sense for me at the time. The idea of a god like being would have sent my childlike mind into a spiralling loop of confusion.
+        </br>
+        A few days later another teacher told me that the moon was a giant cold rock thousands of miles away, suspended in an infinite void of airless darkness. Did they lie to me intentionally or were they merely offering options to make up my own mind about something which no-one has a definite answer to?
+        </br>
+        The tea warms me as I realize that my mind has wandered off topic. I am supposed to figure out what to tell the mayor later today. I dig for a lessom from Master Wu again. I wonder what he thinks of the moon. Did his father, the First Spinjitzu Master create it? Does he know for sure? What other truths has he been keeping from us?
+      </p>
+      <p>
+        <b><i>It's embarrassing.</i></b> It's happened several times now. I am surprised none of the others have noticed it yet. It's not easy to maintain your dignity, giving out instructions when your voice suddenly betrays you. The whole situation is weird to me. Here I am, youngest of the ninja, fighting to keep my confidence and show leadership. And then my voice starts to break. I know my mother has noticed. She keeps reassuring me that I am doing a great job as Sensei, but I guess that's just what moms do; Tell you what you need to hear at the time. I guess something is working though. The others have definitely developed their Spinjitzu skills over the fast few months. Searching for Master Wu rather than fighting an enemy has presented us with some new opportunities and given us a different routine. We are less distracted by events beyond our control, and more focused at the task at hand. Even though I am really connecting with my powers, my ability to summon my elemental dragon is fading. My eyes are changing and now my voice is changing too. I am getting stronger and weaker. Puberty or something greater?
+        </br>
+        I check to see if the coast is clear. It's great to have Claire around, but it's also clear to me that she is more eager to explore the temple than she is to clean it. Hiring her was my idea and I don't regret that, I just need to be more careful now. I found the Book of Spinjitzu in my room shortly after Master Wu got lost in time. I was only very lightly concealed, so it is clear that he intended me to find it. When I first opened it, there were several blank pages, but as I touched the book my power connected with it, and texts appeared. Text written by Master Wu, but not with his normal delicate penmanship. This was written by a trembling hand.
+        </p>
+        <p>
+        <b><i>I am in a weakened state as I write you this nephew.</i></b>
+        </br>
+        <i>Having been struck by Acronix's time punch, I am rapidly aging. I will fall in time as any warrior will and I feel my remaining time here in Ninjago is short. You will be the one to carry on the lessons of Spinjitzu. These words are meant for your eyes only. May your power guide you to the greater truth.</i>
+      </p>
+      <p>
+        As I leafed through the pages more texts and even drawings appeared. I have read the whole book from cover to cover as dozen times over now. Each time there seems to be something new, or something I somehow missed. It's like the book will only reveal certain passages when you need it. I wonder what new knowledge it holds for me today.
+      </p>
+      <p>
+        <i>
+        <b>The Elemental Masters</b> have long been the guardians of Ninjago. Millennia ago, my father bestowed their ancestors with the power of all of the elements. Is this something he told me, or something I dreamt up myself? It's blurry sometimes. Many times and for many generations have they joined together in the defence of Ninjago.
+        </br>
+        40 years ago, your father and myself led the alliance of the Elemental Masters. It was Ninjago's last stand against Master Chen, his dark sorcerer Clouse and the Serpentine. Chen fooled us all into playing his game of war. He cleverly used manipulation, deception, dark magic and the hypnotic powers of the snakes to turn Elemental Masters against each others. But we won! Or so we thought.
+        </br>
+        Shortly after our victory we faced a new enemy… two of our own: Krux and Acronix - The Hands of Time.
+        </br>
+        It is only just now, aging in bed, that I have put together the full puzzle. Master Chen, when he realized his defeat was imminent, had Clouse use dark magic to motivate an idea in Krux and Acronix; That their elemental powers were superior, and that they could win the fight Chen had just lost. He let them know of a secret nest of eggs from the Great Devourer. After 40 years of preparation they put the eggs to evil use: The Vermilion. You know the rest.
+      </i>
+      </p>
+      <p>
+        <b><i>The greater truth.</i></b> Those words stick in my mind. Cole used the same words in the letter he left behind. What is he up to?
+      </p>
+    </div>
+    <div class="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/944120079876263936" target="new">Original post</a>
+      </p>
+    </div>`
+
+i9=`"Way of the Departed is written in jagged letters. Beneath it, Lloyd is at a desk, holding an open book. His hands and eyes glow with green energy. The scene is lit by a candle in a golden dragon candlestick holder.`
+
+
+t10=`<p>
+        <b><i>I take a good look at Nom as I make my way to the city hall.</i></b> Sounds of hammering echo though the streets. Dozen of carpenters are working on mending the buildings. The towers and their metal ornaments gleam in the setting sunlight, but knowing what I know now, I get an eerie feeling like nails are being hammered into a coffin.
+      </p>
+      <p>
+        Jerahn, Seliel and her father are waiting for me as I step into the city hall. The atmosphere is tense, but the Mayor still insists on certain formalities, greeting me warmly and thanks me again for the help during the Nindroid crisis Jerahn shifts uncomfortably and impatiently. Seliel is stone faced. It is not clear how much he has told her father, but he certainly knows something. He is trying hard not to look at my scar (rift) which does not feel natural.
+        </br>
+        I end up telling him everything except exactly how I got all of this information. Seliel is concerned about 'rogue magic' and to mention a conversation with a ghost on a painting would not help. I do everything I can to incriminate Jerahn as little as possible, and as I talk them through it, he seems relieved. The Mayor does not. I am trying hard to read his reactions. How much of this is new to him and what does he actually know? I try to be as diplomatic as possible, but it is obvious that he takes some of it as an accusation. Also it seems he has not been completely oblivious to the fact that the Edo era villages were abandoned under suspicious circumstances. But he lets me finish before he erupts.
+        </br>
+        <i>
+          'WHAT IS THIS!?! DO I LOOK LIKE A CROOK!?! I am the MAYOR of this fine town. I have RESPONSIBILITIES! The BOARD OF COMMERCE expect this town to become a CITY! TO PROSPER and GROW! Our dealings with Borg Industries are not enough! We DO NOT need and image of INDUSTRY! We need CHARM… a DISTINCT PROFILE… AUTHENTICITY… We need TOURISM!'
+        </i> He breathes hard as he finishes his tirade. Then he deflates. He feels like man who has been under too much stress for too long, and has been led to do things he has not been completely confident with. Seliel and Jerahn look surprised as he changes from anger to fatigue.
+        </br>
+        <i>
+          'I should have never trusted that man. Why did I trust such a strange man?'
+        </i>
+         he mutters to himself.
+         </br>
+         <i>'What man father?'</i> Seliel asks.
+         </br>
+         The Mayor sighs deeply. <i>'He came by here 5 months ago. I have not seen him before or since. He had claims on these old plots of land with abandoned decaying villages on them. He spoke highly of their houses' value, their historic significance and their precious rare metal ornamentation. He wanted to make sure the they would not wither and be lost to time. He gave me the claims and a map for nothing. I only had to promise I would honour his wishes and preserve the buildings. He was going to leave for a while. I had to ask him several times if I had understood his proposal right. He seemed sincere but he spoke in a very strange and broken accent. When I asked he was going he said Metalonia.'</i>
+         </br>
+         I feel like I am being hit by my own hammer again.
+         </br>
+         <i>'What… what did he look like?'</i> I ask. But I already know the answer to that.
+         </br>
+         <i>'Strange. He looked strange… He had these big metal hands, a beard and wore a heavy helmet. A big man.'</i>
+         </br>
+         Seliel can tell that I am shaken. I can feel it. I was expecting that it was Clouse who had somehow found a way to fool the Mayor. But Karloff?!?! He is our friend now. Last time I saw him, Jay and I had just freed him and the blacksmiths from Krux and Acronix's swamp facility. Jay complained for days about being sore from his big iron grip hug. Why would he have turned. Why would he be involved in this?
+         </br>
+         I tell them about Karloff. The Mayor has been duped and I have no reservation to trust him now. He needs my help. This whole town does. Suddenly the Mayor panics.
+         </br>
+         <i>'I need to stop this… I need to…'</i> He bolts past me out of the city hall. Seconds after there is turmoil in the street. We follow. The Mayor is screaming at the carpenters to stop their work. People are peeking out of their houses and start gathering in the street. Several noble looking men, the board of commerce I assume, march at the Mayor. The carpenters start to climb down from the buildings.
+      </p>
+      <p>
+        <b><i>From the edge of town,</i></b> the Skullkin lookout swallows hard. Or whatever makes it up for swallowing hard in a Skullkin. The new King will not like this. No one notices the rattling of bones as it departs and makes its way into the forest where a grotesque skull-like vehicle on huge wheels awaits. As it reaches maximum speed, a blinding purple flash ejects it from Ninjago for its travel to the realm known as the Underworld.
+      </p>
+      <p>
+        <b><i>Things are heating up inside the city hall.</i></b> The board of commerce demands to know what is going on and why the Mayor has halted the construction. Apparently some distinguished delegates and potential investors will arrive in Nom is a few short days. They want the buildings to be completed so the town will look its best. Seliel signals me and Jerahn and we slip away. I feel bad for the Mayor. I have never understood politics and even the governments of Ninjago are unclear to me. Seliel is still pretty intense, but now her focus is directed at the bigger picture.
+        </br>
+        She looks up at the Edo towers where the last bit of sunlight has given away to darkness and the rising moon. She sighs. We fill her in on EVERYTHING… details of the dreams, Master Yang's painting, Jerahn's past, Karloff and Clouse. If Clouse is behind this, he has at least one big advantage: When Wu fought his ghost on the Dark Island and he escaped through the vortex, we have no idea where he escaped to. And he has obviously had both the time and resources to plan this out. We have no idea what we are up against. The missing Edo-villagers worries me. We have seen Clouse use dark magic to turn people against each other before. Is this what has happened to Karloff? It's a dreadful thought, but I kind of hope so. The thought that he would turn against us by his own free will is worse.
+      </p>
+      <p>
+        <b><i>In the Underworld</i></b> a grotesque skull-like vehicle arrives in a purple flash.
+      </p>
+    </div>
+    <div class="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/946705796875907072" target="new">Original post</a>
+      </p>
+    </div>`
+
+i10=`Way of the Departed is written in jagge letters. Beneath it, a Skullkin warrior stands looking around the corner of a wall. He is a skelleton with gloing red eyes, wearing a chestplate with pointy shoulder pads and boots. He is holding a naginata, and the blade of it is on fire, casting light on the scene.`
+
+
+t11=`<p>
+        <b><i>I will soon be dreaming the dream again.</i></b> I am sleeping, but my awake thoughts keep popping in. It is not exactly easy falling asleep knowing what I know now. I have to sleep with a blindfold tonight. The light from the rift illuminates the room too much. Also, my dream has changed. I have an external view of myself this time, like I am a floating spirit watching. I cannot move and just watch as Morro breaks through the ice and cleaves my head. My headless body drops to the ground and the rift hangs in mid air convulsing. Morro doesn't seem surprised. This was the expected outcome for him. He stares deep into the Departed Realm, then slowly raises his arm and reaches in. In a bright green flash he is violently pushed back. Inside the Rift the faces float by in the twisting maelstrom of green. Morro's voice has a hollow pained feel as he snaps angrily at them.
+      </br>
+      <i>"Why do you fight it? Why are you so complacent? You could be free like I am! Just pass through and hook on to something! Be free! What's so good about where you are now?"</i>
+    </br>
+    There is something truly desperate about Morro's voice. It dawns on me, that he is not really angry that the ones in the Departed Realm won't accept him. He advances on the rift again…
+      </p>
+      <p>
+        <b><i>The Skullkin crashes through the wall.</i></b> The clacking of bone echoes through the Underworld and the other Skullkin cower as bones scatter across the blackened floor. The sickly green ghostly glow from the Edo sorcerer who has risen from his throne mixes with the blue vapors emitting from his clenched hands.
+        <br>
+        <i>"WORK IN NOM HAS STOPPED?!? WHY?!? SPEAK!"</i>
+      </p>
+      <p>
+        The awkward silence that followed seemed to last forever. The Skullkin skull found it immensely hard to speak having been separated 20 feet from its lower jaw. It wasn't until another Skullkin nervously fumbling managed to put the jaw back in its place, that the silence was broken.
+      </br>
+      <i>"Please exalted SkullKing of the Underworld. I am just a messenger. Bu… bu… bu… but it would seem that the Mayor knows there is some fishy going on. Maybe he has figured out the true purpose of the structures. I think he…"</i>
+    </br>
+    Another blue blast sent the skull flying across the plateau. Baby bone spiders fled into cracks in the ground, as it settled dangerously close to the edge, a steep drop with red hot lava bubbling below. The Skullkin would have swallowed hard had it still had a throat.
+  </br>
+  <i>"Have I asked you to THINK?!? How can I rule Ninjago if there isn't enough Edo power to liberate me from this wretched place?!?"</i> Clouse fumed, then regained his composure. His piercing eyes scanned the legion of Skullkin which stood paralyzed by fear before him. Had he revealed too much? No! These warriors had long ago given up their ability to question authority. Clouse had spent some of his younger years studying the great battles of the past. Samukai had been a mighty warlord early in his career, but he had quickly lost his way in his greedy conquest for riches, land and power. Yet there were no records of desertions or mutinies despite all the atrocities he and his merciless armies caused. Clouse respected that. A great leader should inspire blind loyalty and fear in his followers. And have the resolve to do ANYTHING to carry the ambition forward. He had always wondered what Samukai has done to bring this strange fate to himself and his men. The history books mentioned how the flesh was ripped from their bones and how their armor and weapons dropped to the ground as their skeletons ceased to exist in Ninjago. But even his attempts… A KING'S ORDERS TO HIS SUBJECTS had failed to get any of the skulkin to decipher this riddle for him, so deep ran their shame and regret. Clouse has sat back to his throne and waved his hand dismissively. <i>"Put him back together and send him back to Ninjago. And bring this to the warden!"</i> He scribbled some fast instructions on a crumbling piece of parchment, and called over the newly rebuilt Skulkin, who nervously approached his King with new found respect. His respect was no longer based on the promise of becoming something more. But of fear. 
+      </p>
+      <p>
+        <b><i>I rip the blindfold from my eyes.</i></b> I am wide awake and the rift in my head burns painfully on my face. As my eyes adjust to the green light reflected on the ceiling, I summarize the new information from thhe dream. How much of it is to be trusted, and how much has been added by my own imagination? No one in Ninjago seems to know amuch about the Departed Realm, yet my dream suggests that the Departed have no desire to leave it. Trurh or wishful thinking? Not sure. Still I take some comfort in that.
+        </br>
+        As I step out into the sunlight, the sounuds of birds chirping greet me. No sounds of hammering. I wonder what the mayor has argued to the board of commerce, but it has clearly worked. Jerahn is waiting for me outside with a most concerned look on his face.
+        </br>
+        <i>"My scar has disappeared again! It just disappeared!"</i> he blurts out at me as he brushes his hair away from the forehead.
+        </br>
+        <i>"Yes?"</i> I reply. Of course this is strange and last we spoke of it, we were interrupted by Seliel, so I don't have the full picture.
+        </br>
+        <i>"Normally they fade away slowly. But this time it just disappeared! I was talking with Alyce and all of a sudden…"</i>
+        </br>
+        I cut him off. <i>"Who's Alyce?"</i>
+        </br>
+        <i>"Alyce she's… oh right! I haven't told you. Alyce is one of the others… Yang's students, you know. I was talking to her. She was out tracking the people from her village that had gone missing and…"</i>
+        </br>
+        I look around. The street is empty. <i>"Where is she?"</i>
+        </br>
+        Jerahn takes a deep breath as he realizes he's getting ahead of himself.
+        </br>
+        <i>"It's how we keep in touch. The scars. They come and go, but when they're the we can communicate… talk. Like a voice in our heads. Lately I haven't been able to communicate with the others, but now I can't reach Alyce either. We were "talking". She said she had come across something. A camp or something. She was sneaking in to investigate. She hushed me. But then all of a sudden our connection was lost. I could feel her confusion and fear, but then I felt a sting and then nothing. When I checked my scar was gone. WE GOTTA HELP HER! SOMETHING HAS HAPPENED TO HER!"</i>
+        </br>
+        Jerahn is wide eyed and panicky. When I ask him if he has any idea where she is, he drops to his knees and shakes his head sobbing.
+        </br>
+        I know how it feels to be this lost. I have been… several times.
+      </p>
+    </div>
+    <div class="source">
+      <p>
+        <a href="https://twitter.com/TommyAndreasen/status/949239202784448512" target="new">Original post</a>
+      </p>
+    </div>`
+
+i11=`Way of the Departed is written in jagged letters. Beneath it, Clouse stands atop a flight of stairs, his arms raised and lightining-like energy sprouting from his hands. He has an angry, yelling expression; behind him, the arms of a throne can be seen, decorated with skulls.`
+
+
+t12=``
+
+i12=``
+
+
+t13=``
+
+i14=``
+
+
+t15=``
+
+i15=``
+
+
+t16=``
+
+i16=``
+
+
+t17=``
+
+i17=``
+
+
+t18=``
+
+i18=``
+
+
+t19=``
+
+i19=``
+
+
+t20=``
+
+i20=``
+
+
+t21=``
+
+i21=``
+
+
+t22=``
+
+i22=``

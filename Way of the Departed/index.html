@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title id="tit">Way of the Departed</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+    <link rel="icon" href="imgs/favicon.ico" />
+	
+	<!-- .txt files containing the text from the chapters, disguised as js variables -->
+    <script id="txt" src="chapters.txt"></script>
+
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div id="sidenav">
+      <a id="closebtn" href="javascript:void(0)" onclick="closeNav()">&times;</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t1, i1, 1)">Chapter 1</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t2, i2, 2)">Chapter 2</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t3, i3, 3)">Chapter 3</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t4, i4, 4)">Chapter 4</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t5, i5, 5)">Chapter 5</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t6, i6, 6)">Chapter 6</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t7, i7, 7)">Chapter 7</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t8, i8, 8)">Chapter 8</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t9, i9, 9)">Chapter 9</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t10, i10, 10)">Chapter 10</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t11, i11, 11)">Chapter 11</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t12, i12, 12)">Chapter 12</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t13, i13, 13)">Chapter 13</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t14, i14, 14)">Chapter 14</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t15, i15, 15)">Chapter 15</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t16, i16, 16)">Chapter 16</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t17, i17, 17)">Chapter 17</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t18, i18, 18)">Chapter 18</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t19, i19, 19)">Chapter 19</a>
+      <a class="index-item" href="javascript:void(0)" onclick="change(t20, i20, 20)">Chapter 20</a>
+    </div>
+
+    <a id="openbtn" onclick="openNav()">Chapters</a>
+    <div id="image">
+      <img id="im"
+        src="imgs/1.jpg"
+        alt="Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his face obscured by the hoodie. The green glow of his scar is evident. A green, ghostly Master Wu floats besides him and rests his hand on Cole's shoulder. Wu's legs fade into fog before reaching the ground."
+        width="100%"
+      />
+    </div>
+    <div id="text">
+      <b>Way of the Departed</b> is a "could-be-canon" Ninjago novel written by show co-creator Tommy
+      Andreasen and released on Twitter. It takes place between <i>The Hands of
+      Time</i> and <i>Sons of Garmadon</i>, and focuses on Cole's journey to discover the
+      origins of his scar.
+    </div>
+    <div class="credits">
+      <p>
+        Story and illustrations by Tommy Andreasen:
+        <a href="https://twitter.com/TommyAndreasen" target="new"
+          >@TommyAndreasen</a
+        >
+      </p>
+      <p>
+        Further info:
+        <a
+          href="https://ninjago.fandom.com/wiki/Way_of_the_Departed"
+          target="new"
+          >Ninjago Wiki</a
+        >
+      </p>
+      <p>Organized by <a id="Azure" href="https://github.com/AzurePi" target="new">Azure</a></p>
+    </div>
+  </body>
+</html>

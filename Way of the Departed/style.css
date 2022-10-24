@@ -1,0 +1,195 @@
+@font-face {
+  font-family: 'Cloister Black';
+  src: url(CloisterBlackLight.ttf);
+}
+
+:root {
+  --brown: rgb(73, 38, 1);
+  --green: #31a802;
+  --beige: #fbe5ac;
+}
+
+body{
+  background-color: var(--beige);
+  background-image: url(imgs/parchment_paper_background_1800x1600.jpg);
+  background-attachment: fixed;
+  background-position: top left;
+  margin-bottom: 0;
+  margin-top: 3%;
+}
+
+#bar {
+ height: 100%;
+  width: 0; /* change with javascript */
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  border-color: var(--brown);
+  border-left-style: double;
+  border-left-width: 15px;
+  background-image: url(imgs/brown_parchment_paper_background_1800x1600.jpg);
+}
+
+#openbtn {
+  position: fixed;
+  top: 0px;
+  left: 2%;
+  float: right;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  color: var(--green);
+  text-decoration: none;
+  margin-top: 2%;
+  margin-left: 2%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: var(--brown);
+  padding: 6px;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 145%;
+  transition: 2s;
+  background-color: var(--beige);
+  background-image: url(imgs/parchment_paper_background_1800x1600.jpg);
+}
+
+#openbtn:hover {
+  color: var(--brown);
+}
+
+#sidenav {
+  height: 100%;
+  width: 0; /* change with javascript */
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  border-color: var(--brown);
+  border-right-style: double;
+  border-right-width: 10px;
+  background-image: url(imgs/brown_parchment_paper_background_1800x1600.jpg);
+  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow-y: scroll; /* Enable vertical scroll */
+  padding-top: 60px;
+  padding-bottom: 100px;
+  transition: 0.9s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* navigation menu links */
+#sidenav a {
+  padding: 8px 8px 8px 32px;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  color: #35ba00;
+  text-decoration: none;
+  font-size: 145%;
+  display: block;
+  transition: 0.5s;
+}
+
+/* When you mouse over the navigation links, change their color */
+#sidenav a:hover {
+  color: var(--brown);
+}
+
+/* Position and style the close button (top right corner) */
+#sidenav #closebtn {
+  position: absolute;
+  top: 0;
+  right: 20px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* On smaller screens, change the style of the sidenav  */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.header {
+  display: flex;
+}
+
+.back {
+  float: left;
+  margin-top: 3%;
+  margin-left: 1%;
+}
+
+.back a {
+  border-style: solid;
+  border-width: 2px;
+  border-color: var(--brown);
+  padding: 4px;
+  color: var(--green);
+  text-decoration: none;
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri,
+    sans-serif;
+  font-size: 110%;
+}
+
+#image {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  width: 40%;
+}
+
+#image img {
+  border-style: solid double;
+  border-width: 6px 7px;
+  border-color: var(--brown);
+}
+
+#text {
+  display: block;
+  margin-left: 4%;
+  margin-right: 5%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 115%;
+  text-align: justify;
+}
+
+#source {
+  width: 100%;
+  font-size: 80%;
+  color: var(--green);
+  transition: 5s;
+  text-align: right;
+}
+
+#source a:link {
+  text-decoration: none;
+  color: var(--green);
+}
+
+#source a:visited {
+  text-decoration: none;
+  color: var(--green);
+}
+
+.index {
+  display: flex;
+  color: var(--brown);
+  font-size: 160%;
+  line-height: 155%;
+}
+
+.credits {
+  margin-top: 5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  padding-left: 4%;
+  color: var(--beige);
+  background-color: var(--brown);
+  background-image: url(imgs/Wooden-Background.jpg);
+}
+
+.credits a {
+  color: var(--green);
+  text-decoration: none;
+}
+
+#Azure {
+  color:  #0080FF;
+}
