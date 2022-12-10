@@ -1,7 +1,34 @@
+@font-face {
+  font-family: 'Cloister Black';
+  src: url(./Way\ of\ the\ Departed/CloisterBlackLight.ttf);
+}
+
+:root {
+  --brown: rgb(73, 38, 1);
+  --green: #31a802;
+  --beige: #fbe5ac;
+}
+
 body {
-  background-color: white;
+  background-color: var(--beige);
   background-image: url(http://www.zingerbugimages.com/backgrounds/bamboo_wallpaper_tileable.jpg);
   background-position: top left;
   background-repeat: repeat;
   background-attachment: fixed;
+}
+
+#departed {
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  color: var(--green);
+  padding: auto;
+  margin: auto;
+  border-color: var(--brown);
+  border-width: 6px 7px;
+  border-top-style: solid;
+  border-left-style: double;
+}
+
+#splinter {
+  padding: auto;
+  margin: auto;
 }
