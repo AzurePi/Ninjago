@@ -20,11 +20,11 @@ body {
 #departed {
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   color: var(--green);
-  padding: auto;
+  padding: 10%;
   margin: auto;
   border-color: var(--brown);
-  border-width: 6px 7px;
-  border-style: solid double;
+  border-width: 6px 7px 7px 6px;
+  border-style: solid double double solid;
 }
 
 #splinter {
