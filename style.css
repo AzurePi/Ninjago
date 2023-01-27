@@ -15,19 +15,59 @@ body {
   background-position: top left;
   background-repeat: repeat;
   background-attachment: fixed;
+  display: grid;
+  padding: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 #departed {
-  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  color: var(--green);
-  padding: 10%;
-  margin: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
   border-color: var(--brown);
-  border-width: 6px 7px 7px 6px;
-  border-style: solid double double solid;
+  border-width: 6px 7px;
+  border-style: solid double;
+  padding: 10%;  
 }
 
 #splinter {
-  padding: auto;
-  margin: auto;
+  margin-left: auto;
+  border-color: var(--brown);
+  border-width: 6px 7px;
+  border-style: solid double;
+  padding: 10%;  
+}
+
+#departed a {
+  display: block;
+  font-size: 145%;
+  text-align: center;
+  color: var(--green);
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  transition: 0.9s;
+}
+
+#splinter a {
+  display: block;
+  font-size: 145%;
+  text-align: center;
+  color: var(--green);
+  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  transition: 0.9s;
+}
+
+#departed a:hover {
+  color: var(--brown);
+}
+
+#departed a:visited {
+  color: var(--green);
+}
+
+#splinter a:hover {
+  color: var(--brown);
+}
+
+#splinter a:visited {
+  color: var(--green);
 }
