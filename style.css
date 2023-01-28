@@ -12,9 +12,6 @@
 body {
   background-color: var(--beige);
   background-image: url(http://www.zingerbugimages.com/backgrounds/bamboo_wallpaper_tileable.jpg);
-  background-position: top left;
-  background-repeat: repeat;
-  background-attachment: fixed;
   display: grid;
   padding: 10%;
   padding-top: 2%;
@@ -28,6 +25,9 @@ body {
   border-width: 6px 7px;
   border-style: solid double;
   padding: 10%;  
+  background-image: url(./Way\ of\ the\ Departed/imgs/green.png);
+  background-attachment: fixed;
+  background-size: 100%;
 }
 
 #splinter {
@@ -35,7 +35,7 @@ body {
   border-color: var(--brown);
   border-width: 6px 7px;
   border-style: solid double;
-  padding: 10%;  
+  padding: 10%;
 }
 
 #departed a {
@@ -44,7 +44,8 @@ body {
   text-align: center;
   color: var(--green);
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  transition: 0.9s;
+  text-decoration: none;
+  transition: 2s;
 }
 
 #splinter a {
@@ -52,9 +53,13 @@ body {
   font-size: 145%;
   text-align: center;
   color: var(--green);
+  /* Change font-family and color later */
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  transition: 0.9s;
+  text-decoration: none;
+  transition: 2s;
 }
+
+/* change all that follows later! */
 
 #departed a:hover {
   color: var(--brown);

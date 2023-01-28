@@ -67,11 +67,11 @@ body{
   border-right-style: double;
   border-right-width: 10px;
   background-image: url(imgs/brown_parchment_paper_background_1800x1600.jpg);
-  overflow-x: hidden; /* Disable horizontal scroll */
-  overflow-y: scroll; /* Enable vertical scroll */
+  overflow-x: hidden; /* disable horizontal scroll */
+  overflow-y: scroll; /* enable vertical scroll */
   padding-top: 60px;
   padding-bottom: 100px;
-  transition: 0.9s; /* 0.5 second transition effect to slide in the sidenav */
+  transition: 0.9s; /* transition effect to slide in the sidenav */
 }
 
 /* navigation menu links */
@@ -85,12 +85,12 @@ body{
   transition: 0.5s;
 }
 
-/* When you mouse over the navigation links, change their color */
+/* when you mouse over the navigation links, change their color */
 #sidenav a:hover {
   color: var(--brown);
 }
 
-/* Position and style the close button (top right corner) */
+/* position and style the close button (top right corner) */
 #sidenav #closebtn {
   position: absolute;
   top: 0;
@@ -99,7 +99,7 @@ body{
   margin-left: 50px;
 }
 
-/* On smaller screens, change the style of the sidenav  */
+/* on smaller screens, change the style of the sidenav  */
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
