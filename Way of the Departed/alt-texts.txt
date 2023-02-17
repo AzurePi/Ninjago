@@ -1,0 +1,47 @@
+i1=`Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his face obscured by the hoodie. The green glow of his scar is evident. A green, ghostly Master Wu floats besides him and rests his hand on Cole's shoulder. Wu's legs fade into fog before reaching the ground.`
+
+i2=`Way of the Departed is written in jagged letters. Beneath it, Cole is walking, wearing  his back gi with the hood pulled down, and his green glowing scar is fully visible on his face. Cole has a warhammer straped on his back, and is carrying a bindle. On the background, the sun is rising behind a mountain chain, and the floating Temple of Airjitzu can be seen.`
+
+i3=`Way of the Departed is written in jagged letters. Beneath it, Cole is sitting at a campfire near the edge of a cliff, facing away from the viewer. Beyond the cliff a mountain can be seen, and above the Moon is shining on the night sky`
+
+i4=`Way of the Departed is written in jagged letters. Beneath it, a campfire illuminates Cole in the middle of the woods. He is standing at the ready, wielding his warhammer with an engry expression on his face. His enemy os unseen. Cole's scar is glowing green, and the light parts the shadows around him.`
+
+i5=`Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his hood pulled down, and his warhammer is straped to his back. He is looking at a man turned back to the viewer, who's wearing grey clothes and has long, dark hair tied in a low ponytail. To the side of Cole stands Seliel, a womam wearing a light blue gi. She has brown hair with a light blue streak, and she is looking angrily at Cole.`
+
+i6=`Way of the Departed is written in jagged letters. Beneath it, stands an ice sculpture of Cole, wather pooling at its feet. It stands with an stern expression, holding an warhammer behind its back.`
+
+i7=`Way of the Departed is written in jagged letters. Beneath it, Cole has his back turned to the viewer. He is wearing his black gi, his hood pulled down and his warhammer straped to his back. The green glow of his scar wraps around his head. He is looking at a painting that hangs crooked at a wall. From the picture, the green, ghostly image of Master Chen lunges forward. Green mist and light sprouts from his hands and the picture itself. Beneath the picture, there are broken shelves with trinkets, and a tilted vase. To the side, there is a larger vase, a sheathed sword, and a spear.`
+
+i8=`Way of the Departed is written in jagged letters. Beneath it, there is a tall building similar to a japanese pagoda. On the background, the sillhouette of other similar buildings is visible. Everything is tinted orange as the sun is low in the sky.`
+
+i9=`"Way of the Departed is written in jagged letters. Beneath it, Lloyd is at a desk, holding an open book. His hands and eyes glow with green energy. The scene is lit by a candle in a golden dragon candlestick holder.`
+
+i10=`Way of the Departed is written in jagge letters. Beneath it, a Skullkin warrior stands looking around the corner of a wall. He is a skelleton with gloing red eyes, wearing a chestplate with pointy shoulder pads and boots. He is holding a naginata, and the blade of it is on fire, casting light on the scene.`
+
+i11=`Way of the Departed is written in jagged letters. Beneath it, Clouse stands atop a flight of stairs, his arms raised and lightining-like energy sprouting from his hands. He has an angry, yelling expression; behind him, the arms of a throne can be seen, decorated with skulls.`
+
+i12=``
+
+i13=``
+
+i14=``
+
+i15=``
+
+i16=``
+
+i17=``
+
+i18=``
+
+i19=``
+
+i20=``
+
+i21=``
+
+i22=``
+
+i23=``
+
+i24=``

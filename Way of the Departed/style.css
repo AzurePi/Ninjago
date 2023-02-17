@@ -19,7 +19,7 @@ body{
 }
 
 #bar {
- height: 100%;
+  height: 100%;
   width: 0; /* change with javascript */
   position: fixed;
   z-index: 1;
@@ -29,6 +29,7 @@ body{
   border-left-style: double;
   border-left-width: 15px;
   background-image: url(imgs/brown_parchment_paper_background_1800x1600.jpg);
+  padding-bottom: 100px;
 }
 
 #openbtn {
@@ -58,7 +59,7 @@ body{
 
 #sidenav {
   height: 100%;
-  width: 0; /* change with javascript */
+  width: 0; /* changes with javascript */
   position: fixed;
   z-index: 1;
   top: 0;
@@ -67,25 +68,29 @@ body{
   border-right-style: double;
   border-right-width: 10px;
   background-image: url(imgs/brown_parchment_paper_background_1800x1600.jpg);
-  overflow-x: hidden; /* disable horizontal scroll */
-  overflow-y: scroll; /* enable vertical scroll */
-  padding-top: 60px;
-  padding-bottom: 100px;
-  transition: 0.9s; /* transition effect to slide in the sidenav */
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding-top: 50px;
+  transition: 0.9s; /* transition effect to slide the sidenav */
 }
 
-/* navigation menu links */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* navigation menu links and button*/
 #sidenav a {
+  display: block;
   padding: 8px 8px 8px 32px;
   font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
-  color: #35ba00;
+  color: var(--green);
   text-decoration: none;
   font-size: 145%;
-  display: block;
   transition: 0.5s;
 }
 
-/* when you mouse over the navigation links, change their color */
 #sidenav a:hover {
   color: var(--brown);
 }
@@ -103,28 +108,6 @@ body{
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}
-
-.header {
-  display: flex;
-}
-
-.back {
-  float: left;
-  margin-top: 3%;
-  margin-left: 1%;
-}
-
-.back a {
-  border-style: solid;
-  border-width: 2px;
-  border-color: var(--brown);
-  padding: 4px;
-  color: var(--green);
-  text-decoration: none;
-  font-family: 'Cloister Black', 'Gill Sans', 'Gill Sans MT', Calibri,
-    sans-serif;
-  font-size: 110%;
 }
 
 #image {
@@ -158,21 +141,13 @@ body{
   text-align: right;
 }
 
-#source a:link {
-  text-decoration: none;
+#source a{
+  width: 100%;
+  font-size: 85%;
   color: var(--green);
-}
-
-#source a:visited {
   text-decoration: none;
-  color: var(--green);
-}
-
-.index {
-  display: flex;
-  color: var(--brown);
-  font-size: 160%;
-  line-height: 155%;
+  transition: 5s;
+  text-align: right;
 }
 
 .credits {

@@ -81,13 +81,8 @@ t1=`<p>
         Cole. That's not a scar… it's a rift. And it will open soon…".
       </p>
       <div id="source">
-      <p>
         <a href="https://twitter.com/TommyAndreasen/status/943790525911588865" target="new">Original post</a>
-      </p>
-    </div>`
-
-i1=`Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his face obscured by the hoodie. The green glow of his scar is evident. A green, ghostly Master Wu floats besides him and rests his hand on Cole's shoulder. Wu's legs fade into fog before reaching the ground.`
-
+      </div>`
 
 t2=`<p>
         <i
@@ -136,9 +131,6 @@ t2=`<p>
       <p>
         <a href="https://twitter.com/TommyAndreasen/status/926439448019177472" target="new">Original post</a>
       </p>`
-
-i2=`Way of the Departed is written in jagged letters. Beneath it, Cole is walking, wearing  his back gi with the hood pulled down, and his green glowing scar is fully visible on his face. Cole has a warhammer straped on his back, and is carrying a bindle. On the background, the sun is rising behind a mountain chain, and the floating Temple of Airjitzu can be seen.`
-
 
 t3=`<p>
         <b><i>It is night and I am tired.</i></b> Soon I will need to sleep.
@@ -198,9 +190,6 @@ I am 5 years old. I see my father and my mother dancing in the moonlight on the 
       </p>
     </div>`
 
-i3=`Way of the Departed is written in jagged letters. Beneath it, Cole is sitting at a campfire near the edge of a cliff, facing away from the viewer. Beyond the cliff a mountain can be seen, and above the Moon is shining on the night sky`
-
-
 t4=`<p>
         <b><i>I have been walking for the entire day.</i></b>
         </br>
@@ -246,9 +235,6 @@ t4=`<p>
         <a href="https://twitter.com/TommyAndreasen/status/931254457026822144" target="new">Original post</a>
       </p>
     </div>`
-
-i4=`Way of the Departed is written in jagged letters. Beneath it, a campfire illuminates Cole in the middle of the woods. He is standing at the ready, wielding his warhammer with an engry expression on his face. His enemy os unseen. Cole's scar is glowing green, and the light parts the shadows around him.`
-
 
 t5=`<p>
         <b><i>The next morning Seliel asks me if I slept well.</i></b> I lie and say that I did. She gives me a short tour of the town. It has changed a lot since we were last here. Ornate buildings have been built in the style and tradition of the Edo period. It reminds me a lot of the Temple of Airjitzu and the whole village has a lot more charm to it now. It all seems very authentic. When I ask about it Seliel tells me that some of it actually is authentic. It was brought here and restored from some decaying villages several hundred of miles south.
@@ -314,9 +300,6 @@ t5=`<p>
       </p>
     </div>`
 
-i5=`Way of the Departed is written in jagged letters. Beneath it, Cole stands wearing his black gi, his hood pulled down, and his warhammer is straped to his back. He is looking at a man turned back to the viewer, who's wearing grey clothes and has long, dark hair tied in a low ponytail. To the side of Cole stands Seliel, a womam wearing a light blue gi. She has brown hair with a light blue streak, and she is looking angrily at Cole.`
-
-
 t6=`<p>
         <b><i>I play around with my powers while I wait and make a sculpture of Cole.</i></b> It is effortless. I have years of interactions with him stored in my easy access memory banks. He has been gone for two days now. I look at the refractions in his shape. It is a hot day and he will be gone soon. I should not have made that. I detect my emotion readout decline. Two days are not a long time but the circumstances of his departure troubles me. The note he left behind was most perplexing.
         </br>
@@ -367,9 +350,6 @@ t6=`<p>
       </p>
     </div>`
 
-i6=`Way of the Departed is written in jagged letters. Beneath it, stands an ice sculpture of Cole, wather pooling at its feet. It stands with an stern expression, holding an warhammer behind its back.`
-
-
 t7=`<p>
         <b><i>It makes sense now.</i></b> At least that nonsensical and elusive ghost sense that I've gotten used to dealing with. Here is a painting of Master Yang looking back at me. It is different from the one at the museum and the ones still hanging in our temple. This one is more crudely painted.
         </br>
@@ -415,9 +395,6 @@ t7=`<p>
       </p>
     </div>`
 
-i7=`Way of the Departed is written in jagged letters. Beneath it, Cole has his back turned to the viewer. He is wearing his black gi, his hood pulled down and his warhammer straped to his back. The green glow of his scar wraps around his head. He is looking at a painting that hangs crooked at a wall. From the picture, the green, ghostly image of Master Chen lunges forward. Green mist and light sprouts from his hands and the picture itself. Beneath the picture, there are broken shelves with trinkets, and a tilted vase. To the side, there is a larger vase, a sheathed sword, and a spear.`
-
-
 t8=`<p>
         <b><i>I need to be patient.</i></b> It has become my cursed mantra during my residency here. I have been patient all of my life so why should death be any different for me? I have spent most of my life as a follower. In death I have attempted to come into my own. I knew what remained of me had limited time in Ninjago so I had to seek new battlegrounds. My Realm of Shadows endeavor was not exactly a success. The Ninja managed to bring the Dragon of Light before me. Later I failed to acquire the Teapot of Tyrahn in time and left for the Dark Island. But even there the Ninja thwarted my plans… or rather my old rival's brother thwarted me with their father's golden hulk of an atrocity. I hate light… it seems to be my bane. Even Garmadon had embraced the light and become a goody-two-shoes when he cheated me into the Cursed Realm. I should have know better. Even when he was younger he was a cheat. Using Spinjutzu to rob me of my rightful title of Lord. Dishonorable!
         </br>
@@ -454,9 +431,6 @@ t8=`<p>
         <a href="https://twitter.com/TommyAndreasen/status/941638135477305344" target="new">Original post</a>
       </p>
     </div>`
-
-i8=`Way of the Departed is written in jagged letters. Beneath it, there is a tall building similar to a japanese pagoda. On the background, the sillhouette of other similar buildings is visible. Everything is tinted orange as the sun is low in the sky.`
-
 
 t9=`<p>
         <b><i>The Skullkin watching Cole fights the urge to attack.</i></b>
@@ -508,9 +482,6 @@ t9=`<p>
       </p>
     </div>`
 
-i9=`"Way of the Departed is written in jagged letters. Beneath it, Lloyd is at a desk, holding an open book. His hands and eyes glow with green energy. The scene is lit by a candle in a golden dragon candlestick holder.`
-
-
 t10=`<p>
         <b><i>I take a good look at Nom as I make my way to the city hall.</i></b> Sounds of hammering echo though the streets. Dozen of carpenters are working on mending the buildings. The towers and their metal ornaments gleam in the setting sunlight, but knowing what I know now, I get an eerie feeling like nails are being hammered into a coffin.
       </p>
@@ -561,9 +532,6 @@ t10=`<p>
         <a href="https://twitter.com/TommyAndreasen/status/946705796875907072" target="new">Original post</a>
       </p>
     </div>`
-
-i10=`Way of the Departed is written in jagge letters. Beneath it, a Skullkin warrior stands looking around the corner of a wall. He is a skelleton with gloing red eyes, wearing a chestplate with pointy shoulder pads and boots. He is holding a naginata, and the blade of it is on fire, casting light on the scene.`
-
 
 t11=`<p>
         <b><i>I will soon be dreaming the dream again.</i></b> I am sleeping, but my awake thoughts keep popping in. It is not exactly easy falling asleep knowing what I know now. I have to sleep with a blindfold tonight. The light from the rift illuminates the room too much. Also, my dream has changed. I have an external view of myself this time, like I am a floating spirit watching. I cannot move and just watch as Morro breaks through the ice and cleaves my head. My headless body drops to the ground and the rift hangs in mid air convulsing. Morro doesn't seem surprised. This was the expected outcome for him. He stares deep into the Departed Realm, then slowly raises his arm and reaches in. In a bright green flash he is violently pushed back. Inside the Rift the faces float by in the twisting maelstrom of green. Morro's voice has a hollow pained feel as he snaps angrily at them.
@@ -618,54 +586,26 @@ t11=`<p>
       </p>
     </div>`
 
-i11=`Way of the Departed is written in jagged letters. Beneath it, Clouse stands atop a flight of stairs, his arms raised and lightining-like energy sprouting from his hands. He has an angry, yelling expression; behind him, the arms of a throne can be seen, decorated with skulls.`
-
-
 t12=``
-
-i12=``
-
 
 t13=``
 
-i14=``
-
-
 t15=``
-
-i15=``
-
 
 t16=``
 
-i16=``
-
-
 t17=``
-
-i17=``
-
 
 t18=``
 
-i18=``
-
-
 t19=``
-
-i19=``
-
 
 t20=``
 
-i20=``
-
-
 t21=``
-
-i21=``
-
 
 t22=``
 
-i22=``
+t23=``
+
+t24=``
