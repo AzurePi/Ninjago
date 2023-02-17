@@ -11,21 +11,21 @@ function closeNav() {
 /* Change the content of the page according to the selected chapter */
 function change(T, I, N) {
 
-	/* Change the page title */
-	document.getElementById('title').innerHTML = `Chapter ${N}`;
-
-	/* Change the text */
-	document.getElementById('text').innerHTML = T;
-
 	/* Change the image */
 	document.getElementById('im').src = `imgs/${N}.jpg`;
-
-	/* Change the image alt text*/
-	document.getElementById('im').alt= I;
 
 	/* Closes back the navigation bar */
 	closeNav();
 
 	/* Takes the reader back to the top */
 	document.documentElement.scrollTop = 0;
+
+	/* Change the image alt text*/
+	document.getElementById('im').alt= I;
+
+	/* Change the page title */
+	document.getElementById('title').innerHTML = `Chapter ${N}`;
+
+	/* Change the text */
+	document.getElementById('text').innerHTML = T;
 }

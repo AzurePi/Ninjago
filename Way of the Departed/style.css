@@ -9,6 +9,16 @@
   --beige: #fbe5ac;
 }
 
+::-moz-selection{
+  color: var(--beige);
+  background: var(--green);
+}
+
+::selection {
+  color: var(--beige);
+  background: var(--green);
+}
+
 body{
   background-color: var(--beige);
   background-image: url(imgs/parchment_paper_background_1800x1600.jpg);
@@ -133,6 +143,7 @@ ul {
   text-align: justify;
 }
 
+/* the element with the id "source" only appear once a chapter is selected */
 #source {
   width: 100%;
   font-size: 80%;
@@ -141,13 +152,17 @@ ul {
   text-align: right;
 }
 
-#source a{
+#source a {
   width: 100%;
   font-size: 85%;
   color: var(--green);
   text-decoration: none;
-  transition: 5s;
+  transition: 4s;
   text-align: right;
+}
+
+#source a:hover {
+  color: var(--brown);
 }
 
 .credits {
